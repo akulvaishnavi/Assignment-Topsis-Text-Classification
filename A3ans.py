@@ -5,6 +5,7 @@ import pandas as pd
 ans = pd.read_csv('output.csv')
 ans
 
+#code to make bar graph
 model_names = ans['Model Names']
 topsis_scores = ans['TOPSIS_Score']
 plt.figure(figsize=(10, 6))
