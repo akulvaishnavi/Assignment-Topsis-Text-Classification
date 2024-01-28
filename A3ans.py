@@ -5,5 +5,5 @@ import pandas as pd
 ans = pd.read_csv('output.csv')
 ans
 
-model_names = ans['MODEL']
-topsis_scores = ans['Topsis Score']
+model_names = ans['Model Names']
+topsis_scores = ans['TOPSIS_Score']
