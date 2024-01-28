@@ -1,0 +1,6 @@
+Model Name,Accuracy,Precision,F1-Score,TOPSIS_Score,Rank
+WhereIsAI/UAE-Large-V1,0.756,0.382,0.6941,0.1,5
+ahmedrachid/FinancialBERT-Sentiment-Analysis,0.97,0.974,0.976,0.95,2
+distilbert-base-uncased-finetuned-sst-2-english,0.911,0.898,0.914,0.81,3
+SamLowe/roberta-base-go_emotions,0.961,0.572,0.611,0.32,4
+papluca/xlm-roberta-base-language-detection,0.997,0.9899,0.998,1,1
